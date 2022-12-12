@@ -6,3 +6,7 @@ Página creada para un emprendimiento real de juguetes artesanales, por haber qu
 ## Deploy
 
 https://monigotejuguetes.github.io/catalogo/
+
+## 🛠 Skills
+#HTML
+#CSS
